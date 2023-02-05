@@ -1,0 +1,2 @@
+# DataScienceProject_FirstDraft
+Predictive Maintenance for Industrial Equipment
